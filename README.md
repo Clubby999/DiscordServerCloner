@@ -11,7 +11,7 @@
 You can use [Repl.it](https://replit.com/) to run the script without installing anything.
 Click the button below to run it on Repl.it.
 
-[![Run on Repl.it](https://repl.it/badge/github/LAW1337/DiscordServerCloner)](https://replit.com/@LAW1337/DiscordServerCloner-20)
+[![Run on Repl.it](https://repl.it/badge/github/@Clubby999/Discord-Server-Cloner)](https://replit.com/@Clubby999/Discord-Server-Cloner)
 
 
 - ### Manual Installation
@@ -37,12 +37,5 @@ You can also run the script manually by cloning the repository and installing th
 
 ## Credits:
 
-Inspired by several older Discord Cloner.
 
-Edited by:
-[LAW-Tutorials](https://www.youtube.com/channel/UCbfGHhyeHpKXF5rl1cRfvbg "LAW-Tutorials")
-
-Support me: [Follow on YouTube](https://www.youtube.com/channel/UCbfGHhyeHpKXF5rl1cRfvbg?sub_confirmation=1 "Follow")
-
-
-**05/03/2023.**
+Discord: Clubby#1150
