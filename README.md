@@ -2,22 +2,6 @@
 <h3 align="center">DISCORD SERVER CLONER</h3>
 <div align="center">
 <img src="https://i.imgur.com/K6e9MUz.png" />
-</div>
-<p align="center">
-<a href="https://www.youtube.com/channel/UCbfGHhyeHpKXF5rl1cRfvbg?sub_confirmation=1">
-<img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-<a href="https://discord.gg/cPKc5B6Gnv" alt="Dev Pro Tips Discussion & Support Server">
-<img src="https://img.shields.io/discord/836621542917275668?color=7289DA&labelColor=4a64bd&logo=discord&logoColor=white&style=for-the-badge"/></a>
-</p>
-</p>
-</p>
-<p align="center"> A tool to clone a Discord server, including channels, categories, roles and permissions.</p>
----
-
-## Video Tutorial:
-
-<table><tr><td><a href="https://youtu.be/bGu54aX8jwU"><img width="300px" src="https://i.imgur.com/oJlZffu.png"></a></td>
-<td><a href="https://youtu.be/bGu54aX8jwU">[2023] How to Clone Any Discord Server? (UPDATED)</a><br/>March 5, 2023</td></tr></table>
 
 ## Installation:
 
