@@ -19,7 +19,7 @@ You can also run the script manually by cloning the repository and installing th
 
 
 #### Requirements:
-- [Python 3.8 ar later](https://www.python.org/downloads/)
+- [Python 3.8 or later](https://www.python.org/downloads/)
 - Get your Discord token ([tutorial here](https://www.youtube.com/watch?v=3qzpmTIQ-Gs))
 - Select a server to clone, and copy its ID (right click on the server icon > Copy ID)
 
